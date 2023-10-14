@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saksham Agrawal
-- 👀 I’m interested in software development and web development
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on SpringBoot, Java Swing and Core Java projects
+- 👀 I’m a web developer
+- 💞️ React, JAVA, SpringBoot, JavaScript
 - 📫 How to reach me - email me at saksham615243@gmail.com
 
 <!---
